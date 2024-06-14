@@ -557,7 +557,6 @@ section .main_btn:hover i{
 }
 
 
-
 /*Order*/
 
 .order{
@@ -617,6 +616,14 @@ section .main_btn:hover i{
     margin: 5px;
 }
 
+.order .order_main form .select p{
+    line-height: 25px;
+}
+
+.order .order_main form .select{
+    margin: 5px;
+}
+
 .order .order_main form .input input{
     width: 300px;
     height: 35px;
@@ -625,10 +632,12 @@ section .main_btn:hover i{
     background: #eeeeee;
     outline: none;
     border-radius: 3px;
+
 }
 
 .order .order_main form .input input:focus{
     border: 2px solid #fac031;
+
 }
 .order .order_main form .input select{
     width: 300px;
@@ -642,6 +651,7 @@ section .main_btn:hover i{
 
 .order .order_main form .input select:focus{
     border: 2px solid #fac031;
+}
 
 .order .order_main form .order_btn{
     padding: 10px 0;
@@ -652,9 +662,6 @@ section .main_btn:hover i{
     margin-top: 20px;
     text-decoration: none;
 }
-
-
-
 
 /*Team*/
 
