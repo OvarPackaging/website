@@ -630,6 +630,18 @@ section .main_btn:hover i{
 .order .order_main form .input input:focus{
     border: 2px solid #fac031;
 }
+.order .order_main form .input select{
+    width: 300px;
+    height: 35px;
+    padding: 0 10px;
+    border: 2px solid #cccccc;
+    background: #eeeeee;
+    outline: none;
+    border-radius: 3px;
+}
+
+.order .order_main form .input select:focus{
+    border: 2px solid #fac031;
 
 .order .order_main form .order_btn{
     padding: 10px 0;
