@@ -632,7 +632,6 @@ section .main_btn:hover i{
     background: #eeeeee;
     outline: none;
     border-radius: 3px;
-
 }
 
 .order .order_main form .input input:focus{
@@ -648,7 +647,6 @@ section .main_btn:hover i{
     outline: none;
     border-radius: 3px;
 }
-
 .order .order_main form .input select:focus{
     border: 2px solid #fac031;
 }
@@ -662,6 +660,10 @@ section .main_btn:hover i{
     margin-top: 20px;
     text-decoration: none;
 }
+
+
+
+
 
 /*Team*/
 
